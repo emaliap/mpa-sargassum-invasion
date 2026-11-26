@@ -1,0 +1,5 @@
+project:
+  output-dir: docs # Puts the rendered HTML in docs/
+  execute-dir: project # Runs your code from the root of the repository
+  render:
+    - reports/blog-post.qmd

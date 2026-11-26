@@ -1,0 +1,25 @@
+species,protection_zone,mean
+bm_spul,Old SMR,0.8912098146666667
+den_understory_brown,Old SMR,40.5125
+den_urchins,Old SMR,11.920833333333333
+den_panint,Old SMR,5.45
+cover_sarhor,Old SMR,0.30333333333333334
+cover_erectred,Old SMR,21.2425
+bm_spul,Reference,0.49158924293333334
+den_understory_brown,Reference,2.102777777777778
+den_urchins,Reference,306.4875
+den_panint,Reference,0.7166666666666667
+cover_sarhor,Reference,1.9716666666666667
+cover_erectred,Reference,3.5791666666666666
+bm_spul,New SMR,0.6078658912666667
+den_understory_brown,New SMR,25.8625
+den_urchins,New SMR,19.104166666666668
+den_panint,New SMR,4.2
+cover_sarhor,New SMR,3.7758333333333334
+cover_erectred,New SMR,13.099166666666667
+bm_spul,SMCA,1.5364903137333334
+den_understory_brown,SMCA,16.879629629444445
+den_urchins,SMCA,65.10555555616666
+den_panint,SMCA,0.5750000000333333
+cover_sarhor,SMCA,2.8413888889
+cover_erectred,SMCA,8.7738888889

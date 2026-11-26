@@ -1,0 +1,1441 @@
+survey_year,site,protection_zone,species,value
+2016,anacapa_east_isle_cen,Old SMR,bm_spul,0.503294211
+2016,anacapa_east_isle_cen,Old SMR,den_understory_brown,74
+2016,anacapa_east_isle_cen,Old SMR,den_understory_brown,20.75
+2016,anacapa_east_isle_cen,Old SMR,den_understory_brown,29.5
+2016,anacapa_east_isle_cen,Old SMR,den_understory_brown,97.75
+2016,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2016,anacapa_east_isle_cen,Old SMR,den_understory_brown,1
+2016,anacapa_east_isle_cen,Old SMR,den_urchins,8.25
+2016,anacapa_east_isle_cen,Old SMR,den_urchins,12.75
+2016,anacapa_east_isle_cen,Old SMR,den_panint,2.25
+2016,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2016,anacapa_east_isle_cen,Old SMR,cover_erectred,34.975
+2016,anacapa_east_isle_e,Old SMR,bm_spul,1.202004911
+2016,anacapa_east_isle_e,Old SMR,den_understory_brown,80.75
+2016,anacapa_east_isle_e,Old SMR,den_understory_brown,72.75
+2016,anacapa_east_isle_e,Old SMR,den_understory_brown,12
+2016,anacapa_east_isle_e,Old SMR,den_understory_brown,47
+2016,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2016,anacapa_east_isle_e,Old SMR,den_understory_brown,0.75
+2016,anacapa_east_isle_e,Old SMR,den_urchins,16.25
+2016,anacapa_east_isle_e,Old SMR,den_urchins,9.75
+2016,anacapa_east_isle_e,Old SMR,den_panint,2.5
+2016,anacapa_east_isle_e,Old SMR,cover_sarhor,0
+2016,anacapa_east_isle_e,Old SMR,cover_erectred,27.5
+2016,anacapa_east_isle_w,Old SMR,bm_spul,0.375222808
+2016,anacapa_east_isle_w,Old SMR,den_understory_brown,83.25
+2016,anacapa_east_isle_w,Old SMR,den_understory_brown,126.25
+2016,anacapa_east_isle_w,Old SMR,den_understory_brown,7.25
+2016,anacapa_east_isle_w,Old SMR,den_understory_brown,47.75
+2016,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2016,anacapa_east_isle_w,Old SMR,den_understory_brown,0.25
+2016,anacapa_east_isle_w,Old SMR,den_urchins,2
+2016,anacapa_east_isle_w,Old SMR,den_urchins,7.25
+2016,anacapa_east_isle_w,Old SMR,den_panint,1.75
+2016,anacapa_east_isle_w,Old SMR,cover_sarhor,1.65
+2016,anacapa_east_isle_w,Old SMR,cover_erectred,25
+2016,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.309336554
+2016,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_cen,Reference,den_urchins,253
+2016,anacapa_lighthouse_reef_cen,Reference,den_urchins,53
+2016,anacapa_lighthouse_reef_cen,Reference,den_panint,0
+2016,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,0
+2016,anacapa_lighthouse_reef_cen,Reference,cover_erectred,10
+2016,anacapa_lighthouse_reef_e,Reference,bm_spul,0.143153283
+2016,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_e,Reference,den_urchins,133.5
+2016,anacapa_lighthouse_reef_e,Reference,den_urchins,28.25
+2016,anacapa_lighthouse_reef_e,Reference,den_panint,0.75
+2016,anacapa_lighthouse_reef_e,Reference,cover_sarhor,1.65
+2016,anacapa_lighthouse_reef_e,Reference,cover_erectred,2.475
+2016,anacapa_lighthouse_reef_w,Reference,bm_spul,0.167373698
+2016,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_w,Reference,den_understory_brown,1.75
+2016,anacapa_lighthouse_reef_w,Reference,den_understory_brown,4.5
+2016,anacapa_lighthouse_reef_w,Reference,den_understory_brown,6.75
+2016,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2016,anacapa_lighthouse_reef_w,Reference,den_urchins,482.25
+2016,anacapa_lighthouse_reef_w,Reference,den_urchins,41
+2016,anacapa_lighthouse_reef_w,Reference,den_panint,0
+2016,anacapa_lighthouse_reef_w,Reference,cover_sarhor,3.325
+2016,anacapa_lighthouse_reef_w,Reference,cover_erectred,5.825
+2016,anacapa_middle_isle_cen,New SMR,bm_spul,1.165621781
+2016,anacapa_middle_isle_cen,New SMR,den_understory_brown,0.25
+2016,anacapa_middle_isle_cen,New SMR,den_understory_brown,24.75
+2016,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_cen,New SMR,den_understory_brown,4
+2016,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_cen,New SMR,den_urchins,11
+2016,anacapa_middle_isle_cen,New SMR,den_urchins,2
+2016,anacapa_middle_isle_cen,New SMR,den_panint,2
+2016,anacapa_middle_isle_cen,New SMR,cover_sarhor,5.85
+2016,anacapa_middle_isle_cen,New SMR,cover_erectred,27.475
+2016,anacapa_middle_isle_e,New SMR,bm_spul,0.21586183
+2016,anacapa_middle_isle_e,New SMR,den_understory_brown,10.25
+2016,anacapa_middle_isle_e,New SMR,den_understory_brown,12.75
+2016,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_e,New SMR,den_understory_brown,54
+2016,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_e,New SMR,den_urchins,10.5
+2016,anacapa_middle_isle_e,New SMR,den_urchins,4.75
+2016,anacapa_middle_isle_e,New SMR,den_panint,2.75
+2016,anacapa_middle_isle_e,New SMR,cover_sarhor,7.475
+2016,anacapa_middle_isle_e,New SMR,cover_erectred,20.875
+2016,anacapa_middle_isle_w,New SMR,bm_spul,0.182522152
+2016,anacapa_middle_isle_w,New SMR,den_understory_brown,2.75
+2016,anacapa_middle_isle_w,New SMR,den_understory_brown,0.25
+2016,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_w,New SMR,den_understory_brown,1.25
+2016,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2016,anacapa_middle_isle_w,New SMR,den_urchins,32.5
+2016,anacapa_middle_isle_w,New SMR,den_urchins,4.75
+2016,anacapa_middle_isle_w,New SMR,den_panint,2.5
+2016,anacapa_middle_isle_w,New SMR,cover_sarhor,17.475
+2016,anacapa_middle_isle_w,New SMR,cover_erectred,11.675
+2016,anacapa_west_isle_cen,SMCA,bm_spul,0.974897464
+2016,anacapa_west_isle_cen,SMCA,den_understory_brown,10.75
+2016,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2016,anacapa_west_isle_cen,SMCA,den_understory_brown,39.25
+2016,anacapa_west_isle_cen,SMCA,den_understory_brown,123
+2016,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2016,anacapa_west_isle_cen,SMCA,den_understory_brown,8.25
+2016,anacapa_west_isle_cen,SMCA,den_urchins,32
+2016,anacapa_west_isle_cen,SMCA,den_urchins,26.25
+2016,anacapa_west_isle_cen,SMCA,den_panint,0.5
+2016,anacapa_west_isle_cen,SMCA,cover_sarhor,14.175
+2016,anacapa_west_isle_cen,SMCA,cover_erectred,16.65
+2016,anacapa_west_isle_e,SMCA,bm_spul,0.793041406
+2016,anacapa_west_isle_e,SMCA,den_understory_brown,4.25
+2016,anacapa_west_isle_e,SMCA,den_understory_brown,34.75
+2016,anacapa_west_isle_e,SMCA,den_understory_brown,2.75
+2016,anacapa_west_isle_e,SMCA,den_understory_brown,66.5
+2016,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2016,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2016,anacapa_west_isle_e,SMCA,den_urchins,82.5
+2016,anacapa_west_isle_e,SMCA,den_urchins,8.25
+2016,anacapa_west_isle_e,SMCA,den_panint,0.25
+2016,anacapa_west_isle_e,SMCA,cover_sarhor,25
+2016,anacapa_west_isle_e,SMCA,cover_erectred,12.475
+2016,anacapa_west_isle_w,SMCA,bm_spul,1.385490907
+2016,anacapa_west_isle_w,SMCA,den_understory_brown,8.75
+2016,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2016,anacapa_west_isle_w,SMCA,den_understory_brown,5.25
+2016,anacapa_west_isle_w,SMCA,den_understory_brown,93.75
+2016,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2016,anacapa_west_isle_w,SMCA,den_understory_brown,0.25
+2016,anacapa_west_isle_w,SMCA,den_urchins,111.5
+2016,anacapa_west_isle_w,SMCA,den_urchins,4
+2016,anacapa_west_isle_w,SMCA,den_panint,0.25
+2016,anacapa_west_isle_w,SMCA,cover_sarhor,2.5
+2016,anacapa_west_isle_w,SMCA,cover_erectred,10
+2017,anacapa_east_isle_cen,Old SMR,bm_spul,0.293028408
+2017,anacapa_east_isle_cen,Old SMR,den_understory_brown,90
+2017,anacapa_east_isle_cen,Old SMR,den_understory_brown,37
+2017,anacapa_east_isle_cen,Old SMR,den_understory_brown,11.25
+2017,anacapa_east_isle_cen,Old SMR,den_understory_brown,70.5
+2017,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2017,anacapa_east_isle_cen,Old SMR,den_understory_brown,0.5
+2017,anacapa_east_isle_cen,Old SMR,den_urchins,6
+2017,anacapa_east_isle_cen,Old SMR,den_urchins,9
+2017,anacapa_east_isle_cen,Old SMR,den_panint,7
+2017,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2017,anacapa_east_isle_cen,Old SMR,cover_erectred,26.65
+2017,anacapa_east_isle_e,Old SMR,bm_spul,0.61670322
+2017,anacapa_east_isle_e,Old SMR,den_understory_brown,110.75
+2017,anacapa_east_isle_e,Old SMR,den_understory_brown,45
+2017,anacapa_east_isle_e,Old SMR,den_understory_brown,0.5
+2017,anacapa_east_isle_e,Old SMR,den_understory_brown,16.25
+2017,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2017,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2017,anacapa_east_isle_e,Old SMR,den_urchins,11
+2017,anacapa_east_isle_e,Old SMR,den_urchins,17
+2017,anacapa_east_isle_e,Old SMR,den_panint,3.5
+2017,anacapa_east_isle_e,Old SMR,cover_sarhor,0
+2017,anacapa_east_isle_e,Old SMR,cover_erectred,17.5
+2017,anacapa_east_isle_w,Old SMR,bm_spul,1.168042262
+2017,anacapa_east_isle_w,Old SMR,den_understory_brown,88.75
+2017,anacapa_east_isle_w,Old SMR,den_understory_brown,160
+2017,anacapa_east_isle_w,Old SMR,den_understory_brown,11
+2017,anacapa_east_isle_w,Old SMR,den_understory_brown,38.5
+2017,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2017,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2017,anacapa_east_isle_w,Old SMR,den_urchins,1
+2017,anacapa_east_isle_w,Old SMR,den_urchins,2.75
+2017,anacapa_east_isle_w,Old SMR,den_panint,3
+2017,anacapa_east_isle_w,Old SMR,cover_sarhor,0
+2017,anacapa_east_isle_w,Old SMR,cover_erectred,20
+2017,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.893616926
+2017,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1.75
+2017,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_cen,Reference,den_urchins,584.25
+2017,anacapa_lighthouse_reef_cen,Reference,den_urchins,114.5
+2017,anacapa_lighthouse_reef_cen,Reference,den_panint,1.25
+2017,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,0
+2017,anacapa_lighthouse_reef_cen,Reference,cover_erectred,3.325
+2017,anacapa_lighthouse_reef_e,Reference,bm_spul,0.356614862
+2017,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_e,Reference,den_understory_brown,1.75
+2017,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_e,Reference,den_understory_brown,1.75
+2017,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_e,Reference,den_urchins,151
+2017,anacapa_lighthouse_reef_e,Reference,den_urchins,24.5
+2017,anacapa_lighthouse_reef_e,Reference,den_panint,1
+2017,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0
+2017,anacapa_lighthouse_reef_e,Reference,cover_erectred,10.9
+2017,anacapa_lighthouse_reef_w,Reference,bm_spul,0.449813607
+2017,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0.25
+2017,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_w,Reference,den_understory_brown,1
+2017,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2017,anacapa_lighthouse_reef_w,Reference,den_urchins,821.5
+2017,anacapa_lighthouse_reef_w,Reference,den_urchins,99.25
+2017,anacapa_lighthouse_reef_w,Reference,den_panint,0.5
+2017,anacapa_lighthouse_reef_w,Reference,cover_sarhor,5
+2017,anacapa_lighthouse_reef_w,Reference,cover_erectred,19.175
+2017,anacapa_middle_isle_cen,New SMR,bm_spul,0.52335773
+2017,anacapa_middle_isle_cen,New SMR,den_understory_brown,3.25
+2017,anacapa_middle_isle_cen,New SMR,den_understory_brown,1.5
+2017,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_cen,New SMR,den_understory_brown,2.75
+2017,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_cen,New SMR,den_urchins,1.25
+2017,anacapa_middle_isle_cen,New SMR,den_urchins,1.75
+2017,anacapa_middle_isle_cen,New SMR,den_panint,1.25
+2017,anacapa_middle_isle_cen,New SMR,cover_sarhor,4.175
+2017,anacapa_middle_isle_cen,New SMR,cover_erectred,14.175
+2017,anacapa_middle_isle_e,New SMR,bm_spul,0.299722721
+2017,anacapa_middle_isle_e,New SMR,den_understory_brown,5
+2017,anacapa_middle_isle_e,New SMR,den_understory_brown,4.75
+2017,anacapa_middle_isle_e,New SMR,den_understory_brown,4.25
+2017,anacapa_middle_isle_e,New SMR,den_understory_brown,76.75
+2017,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_e,New SMR,den_urchins,18.25
+2017,anacapa_middle_isle_e,New SMR,den_urchins,4
+2017,anacapa_middle_isle_e,New SMR,den_panint,2
+2017,anacapa_middle_isle_e,New SMR,cover_sarhor,0
+2017,anacapa_middle_isle_e,New SMR,cover_erectred,35
+2017,anacapa_middle_isle_w,New SMR,bm_spul,0.069400542
+2017,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2017,anacapa_middle_isle_w,New SMR,den_urchins,34.5
+2017,anacapa_middle_isle_w,New SMR,den_urchins,11.75
+2017,anacapa_middle_isle_w,New SMR,den_panint,6.5
+2017,anacapa_middle_isle_w,New SMR,cover_sarhor,18.35
+2017,anacapa_middle_isle_w,New SMR,cover_erectred,9.15
+2017,anacapa_west_isle_cen,SMCA,bm_spul,2.065736412
+2017,anacapa_west_isle_cen,SMCA,den_understory_brown,0.75
+2017,anacapa_west_isle_cen,SMCA,den_understory_brown,0.25
+2017,anacapa_west_isle_cen,SMCA,den_understory_brown,0.25
+2017,anacapa_west_isle_cen,SMCA,den_understory_brown,9.75
+2017,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_cen,SMCA,den_urchins,97.5
+2017,anacapa_west_isle_cen,SMCA,den_urchins,26.75
+2017,anacapa_west_isle_cen,SMCA,den_panint,0
+2017,anacapa_west_isle_cen,SMCA,cover_sarhor,10
+2017,anacapa_west_isle_cen,SMCA,cover_erectred,23.3
+2017,anacapa_west_isle_e,SMCA,bm_spul,0.540896584
+2017,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_e,SMCA,den_understory_brown,0.25
+2017,anacapa_west_isle_e,SMCA,den_understory_brown,2.5
+2017,anacapa_west_isle_e,SMCA,den_understory_brown,41.25
+2017,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_e,SMCA,den_urchins,123.25
+2017,anacapa_west_isle_e,SMCA,den_urchins,18.25
+2017,anacapa_west_isle_e,SMCA,den_panint,1.5
+2017,anacapa_west_isle_e,SMCA,cover_sarhor,3.325
+2017,anacapa_west_isle_e,SMCA,cover_erectred,15.05
+2017,anacapa_west_isle_w,SMCA,bm_spul,0.880995815
+2017,anacapa_west_isle_w,SMCA,den_understory_brown,0.75
+2017,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_w,SMCA,den_understory_brown,3.5
+2017,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2017,anacapa_west_isle_w,SMCA,den_urchins,59.5
+2017,anacapa_west_isle_w,SMCA,den_urchins,6.75
+2017,anacapa_west_isle_w,SMCA,den_panint,0.25
+2017,anacapa_west_isle_w,SMCA,cover_sarhor,1.675
+2017,anacapa_west_isle_w,SMCA,cover_erectred,12.5
+2018,anacapa_east_isle_cen,Old SMR,bm_spul,1.141927147
+2018,anacapa_east_isle_cen,Old SMR,den_understory_brown,223.25
+2018,anacapa_east_isle_cen,Old SMR,den_understory_brown,24.5
+2018,anacapa_east_isle_cen,Old SMR,den_understory_brown,12.25
+2018,anacapa_east_isle_cen,Old SMR,den_understory_brown,40
+2018,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2018,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2018,anacapa_east_isle_cen,Old SMR,den_urchins,11
+2018,anacapa_east_isle_cen,Old SMR,den_urchins,10
+2018,anacapa_east_isle_cen,Old SMR,den_panint,2.75
+2018,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2018,anacapa_east_isle_cen,Old SMR,cover_erectred,29.15
+2018,anacapa_east_isle_e,Old SMR,bm_spul,1.053425814
+2018,anacapa_east_isle_e,Old SMR,den_understory_brown,73
+2018,anacapa_east_isle_e,Old SMR,den_understory_brown,15.75
+2018,anacapa_east_isle_e,Old SMR,den_understory_brown,9.25
+2018,anacapa_east_isle_e,Old SMR,den_understory_brown,29.5
+2018,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2018,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2018,anacapa_east_isle_e,Old SMR,den_urchins,21.25
+2018,anacapa_east_isle_e,Old SMR,den_urchins,17.5
+2018,anacapa_east_isle_e,Old SMR,den_panint,2
+2018,anacapa_east_isle_e,Old SMR,cover_sarhor,0
+2018,anacapa_east_isle_e,Old SMR,cover_erectred,16.65
+2018,anacapa_east_isle_w,Old SMR,bm_spul,0.169504646
+2018,anacapa_east_isle_w,Old SMR,den_understory_brown,81.25
+2018,anacapa_east_isle_w,Old SMR,den_understory_brown,110.75
+2018,anacapa_east_isle_w,Old SMR,den_understory_brown,1.75
+2018,anacapa_east_isle_w,Old SMR,den_understory_brown,14.75
+2018,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2018,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2018,anacapa_east_isle_w,Old SMR,den_urchins,5.25
+2018,anacapa_east_isle_w,Old SMR,den_urchins,7.75
+2018,anacapa_east_isle_w,Old SMR,den_panint,5
+2018,anacapa_east_isle_w,Old SMR,cover_sarhor,0
+2018,anacapa_east_isle_w,Old SMR,cover_erectred,19.975
+2018,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.490767689
+2018,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,4
+2018,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0.5
+2018,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_cen,Reference,den_urchins,672.75
+2018,anacapa_lighthouse_reef_cen,Reference,den_urchins,124
+2018,anacapa_lighthouse_reef_cen,Reference,den_panint,3.25
+2018,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,0
+2018,anacapa_lighthouse_reef_cen,Reference,cover_erectred,8.325
+2018,anacapa_lighthouse_reef_e,Reference,bm_spul,0.456744884
+2018,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_e,Reference,den_understory_brown,10.5
+2018,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0.75
+2018,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_e,Reference,den_urchins,317.75
+2018,anacapa_lighthouse_reef_e,Reference,den_urchins,49.75
+2018,anacapa_lighthouse_reef_e,Reference,den_panint,0
+2018,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0.825
+2018,anacapa_lighthouse_reef_e,Reference,cover_erectred,3.325
+2018,anacapa_lighthouse_reef_w,Reference,bm_spul,0.83983764
+2018,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_w,Reference,den_understory_brown,12.25
+2018,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0.25
+2018,anacapa_lighthouse_reef_w,Reference,den_understory_brown,6
+2018,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2018,anacapa_lighthouse_reef_w,Reference,den_urchins,1790.5
+2018,anacapa_lighthouse_reef_w,Reference,den_urchins,184.5
+2018,anacapa_lighthouse_reef_w,Reference,den_panint,0
+2018,anacapa_lighthouse_reef_w,Reference,cover_sarhor,0
+2018,anacapa_lighthouse_reef_w,Reference,cover_erectred,4.175
+2018,anacapa_middle_isle_cen,New SMR,bm_spul,1.258133029
+2018,anacapa_middle_isle_cen,New SMR,den_understory_brown,4.75
+2018,anacapa_middle_isle_cen,New SMR,den_understory_brown,1.25
+2018,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_cen,New SMR,den_understory_brown,4.25
+2018,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_cen,New SMR,den_urchins,4.25
+2018,anacapa_middle_isle_cen,New SMR,den_urchins,3.75
+2018,anacapa_middle_isle_cen,New SMR,den_panint,2.25
+2018,anacapa_middle_isle_cen,New SMR,cover_sarhor,0
+2018,anacapa_middle_isle_cen,New SMR,cover_erectred,6.625
+2018,anacapa_middle_isle_e,New SMR,bm_spul,0.300352229
+2018,anacapa_middle_isle_e,New SMR,den_understory_brown,15.25
+2018,anacapa_middle_isle_e,New SMR,den_understory_brown,4.25
+2018,anacapa_middle_isle_e,New SMR,den_understory_brown,7
+2018,anacapa_middle_isle_e,New SMR,den_understory_brown,76.75
+2018,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_e,New SMR,den_urchins,24.25
+2018,anacapa_middle_isle_e,New SMR,den_urchins,5
+2018,anacapa_middle_isle_e,New SMR,den_panint,5
+2018,anacapa_middle_isle_e,New SMR,cover_sarhor,0
+2018,anacapa_middle_isle_e,New SMR,cover_erectred,15
+2018,anacapa_middle_isle_w,New SMR,bm_spul,0.572155663
+2018,anacapa_middle_isle_w,New SMR,den_understory_brown,0.5
+2018,anacapa_middle_isle_w,New SMR,den_understory_brown,0.5
+2018,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_w,New SMR,den_understory_brown,1.5
+2018,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2018,anacapa_middle_isle_w,New SMR,den_urchins,44.75
+2018,anacapa_middle_isle_w,New SMR,den_urchins,17.5
+2018,anacapa_middle_isle_w,New SMR,den_panint,8.25
+2018,anacapa_middle_isle_w,New SMR,cover_sarhor,0
+2018,anacapa_middle_isle_w,New SMR,cover_erectred,12.475
+2018,anacapa_west_isle_cen,SMCA,bm_spul,0.779499059
+2018,anacapa_west_isle_cen,SMCA,den_understory_brown,4.5
+2018,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_cen,SMCA,den_understory_brown,0.75
+2018,anacapa_west_isle_cen,SMCA,den_understory_brown,16.25
+2018,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_cen,SMCA,den_urchins,78.75
+2018,anacapa_west_isle_cen,SMCA,den_urchins,41
+2018,anacapa_west_isle_cen,SMCA,den_panint,0.75
+2018,anacapa_west_isle_cen,SMCA,cover_sarhor,0.825
+2018,anacapa_west_isle_cen,SMCA,cover_erectred,11.675
+2018,anacapa_west_isle_e,SMCA,bm_spul,0.971433038
+2018,anacapa_west_isle_e,SMCA,den_understory_brown,0.5
+2018,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_e,SMCA,den_understory_brown,6.75
+2018,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_e,SMCA,den_urchins,195
+2018,anacapa_west_isle_e,SMCA,den_urchins,33.75
+2018,anacapa_west_isle_e,SMCA,den_panint,0.25
+2018,anacapa_west_isle_e,SMCA,cover_sarhor,0
+2018,anacapa_west_isle_e,SMCA,cover_erectred,4.175
+2018,anacapa_west_isle_w,SMCA,bm_spul,0.999107533
+2018,anacapa_west_isle_w,SMCA,den_understory_brown,0.25
+2018,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_w,SMCA,den_understory_brown,1.75
+2018,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2018,anacapa_west_isle_w,SMCA,den_urchins,107.75
+2018,anacapa_west_isle_w,SMCA,den_urchins,16.5
+2018,anacapa_west_isle_w,SMCA,den_panint,0
+2018,anacapa_west_isle_w,SMCA,cover_sarhor,0
+2018,anacapa_west_isle_w,SMCA,cover_erectred,5
+2019,anacapa_east_isle_cen,Old SMR,bm_spul,2.882048887
+2019,anacapa_east_isle_cen,Old SMR,den_understory_brown,209.75
+2019,anacapa_east_isle_cen,Old SMR,den_understory_brown,37.5
+2019,anacapa_east_isle_cen,Old SMR,den_understory_brown,9.5
+2019,anacapa_east_isle_cen,Old SMR,den_understory_brown,43
+2019,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2019,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2019,anacapa_east_isle_cen,Old SMR,den_urchins,7.75
+2019,anacapa_east_isle_cen,Old SMR,den_urchins,10.75
+2019,anacapa_east_isle_cen,Old SMR,den_panint,5.5
+2019,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2019,anacapa_east_isle_cen,Old SMR,cover_erectred,25.05
+2019,anacapa_east_isle_e,Old SMR,bm_spul,0.653196949
+2019,anacapa_east_isle_e,Old SMR,den_understory_brown,142.25
+2019,anacapa_east_isle_e,Old SMR,den_understory_brown,22.5
+2019,anacapa_east_isle_e,Old SMR,den_understory_brown,2.5
+2019,anacapa_east_isle_e,Old SMR,den_understory_brown,21.75
+2019,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2019,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2019,anacapa_east_isle_e,Old SMR,den_urchins,5
+2019,anacapa_east_isle_e,Old SMR,den_urchins,5
+2019,anacapa_east_isle_e,Old SMR,den_panint,0.75
+2019,anacapa_east_isle_e,Old SMR,cover_sarhor,0
+2019,anacapa_east_isle_e,Old SMR,cover_erectred,10.825
+2019,anacapa_east_isle_w,Old SMR,bm_spul,0.318449186
+2019,anacapa_east_isle_w,Old SMR,den_understory_brown,98
+2019,anacapa_east_isle_w,Old SMR,den_understory_brown,75
+2019,anacapa_east_isle_w,Old SMR,den_understory_brown,0.75
+2019,anacapa_east_isle_w,Old SMR,den_understory_brown,29.75
+2019,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2019,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2019,anacapa_east_isle_w,Old SMR,den_urchins,1.25
+2019,anacapa_east_isle_w,Old SMR,den_urchins,4.25
+2019,anacapa_east_isle_w,Old SMR,den_panint,2
+2019,anacapa_east_isle_w,Old SMR,cover_sarhor,0.825
+2019,anacapa_east_isle_w,Old SMR,cover_erectred,26.675
+2019,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.522502988
+2019,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,3.25
+2019,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1.5
+2019,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_cen,Reference,den_urchins,395.5
+2019,anacapa_lighthouse_reef_cen,Reference,den_urchins,100
+2019,anacapa_lighthouse_reef_cen,Reference,den_panint,0.25
+2019,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,8.35
+2019,anacapa_lighthouse_reef_cen,Reference,cover_erectred,11.65
+2019,anacapa_lighthouse_reef_e,Reference,bm_spul,1.405587794
+2019,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_e,Reference,den_understory_brown,5.25
+2019,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0.25
+2019,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_e,Reference,den_urchins,278.5
+2019,anacapa_lighthouse_reef_e,Reference,den_urchins,82
+2019,anacapa_lighthouse_reef_e,Reference,den_panint,1
+2019,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0.825
+2019,anacapa_lighthouse_reef_e,Reference,cover_erectred,3.3
+2019,anacapa_lighthouse_reef_w,Reference,bm_spul,0.412197472
+2019,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_w,Reference,den_understory_brown,9.5
+2019,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0.5
+2019,anacapa_lighthouse_reef_w,Reference,den_understory_brown,2.25
+2019,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2019,anacapa_lighthouse_reef_w,Reference,den_urchins,937
+2019,anacapa_lighthouse_reef_w,Reference,den_urchins,123.25
+2019,anacapa_lighthouse_reef_w,Reference,den_panint,0.25
+2019,anacapa_lighthouse_reef_w,Reference,cover_sarhor,0
+2019,anacapa_lighthouse_reef_w,Reference,cover_erectred,3.325
+2019,anacapa_middle_isle_cen,New SMR,bm_spul,1.356679048
+2019,anacapa_middle_isle_cen,New SMR,den_understory_brown,9.75
+2019,anacapa_middle_isle_cen,New SMR,den_understory_brown,1
+2019,anacapa_middle_isle_cen,New SMR,den_understory_brown,0.75
+2019,anacapa_middle_isle_cen,New SMR,den_understory_brown,17
+2019,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2019,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2019,anacapa_middle_isle_cen,New SMR,den_urchins,8.25
+2019,anacapa_middle_isle_cen,New SMR,den_urchins,2.5
+2019,anacapa_middle_isle_cen,New SMR,den_panint,2.75
+2019,anacapa_middle_isle_cen,New SMR,cover_sarhor,1.675
+2019,anacapa_middle_isle_cen,New SMR,cover_erectred,15.825
+2019,anacapa_middle_isle_e,New SMR,bm_spul,0.361351804
+2019,anacapa_middle_isle_e,New SMR,den_understory_brown,21.75
+2019,anacapa_middle_isle_e,New SMR,den_understory_brown,9.25
+2019,anacapa_middle_isle_e,New SMR,den_understory_brown,6.25
+2019,anacapa_middle_isle_e,New SMR,den_understory_brown,25.25
+2019,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2019,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2019,anacapa_middle_isle_e,New SMR,den_urchins,21.25
+2019,anacapa_middle_isle_e,New SMR,den_urchins,3.25
+2019,anacapa_middle_isle_e,New SMR,den_panint,1.5
+2019,anacapa_middle_isle_e,New SMR,cover_sarhor,0.825
+2019,anacapa_middle_isle_e,New SMR,cover_erectred,19.975
+2019,anacapa_middle_isle_w,New SMR,bm_spul,0.297571499
+2019,anacapa_middle_isle_w,New SMR,den_understory_brown,0.25
+2019,anacapa_middle_isle_w,New SMR,den_understory_brown,2.75
+2019,anacapa_middle_isle_w,New SMR,den_understory_brown,3.25
+2019,anacapa_middle_isle_w,New SMR,den_understory_brown,9
+2019,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2019,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2019,anacapa_middle_isle_w,New SMR,den_urchins,26.5
+2019,anacapa_middle_isle_w,New SMR,den_urchins,20.25
+2019,anacapa_middle_isle_w,New SMR,den_panint,4.75
+2019,anacapa_middle_isle_w,New SMR,cover_sarhor,1.675
+2019,anacapa_middle_isle_w,New SMR,cover_erectred,10.8
+2019,anacapa_west_isle_cen,SMCA,bm_spul,1.068101429
+2019,anacapa_west_isle_cen,SMCA,den_understory_brown,9
+2019,anacapa_west_isle_cen,SMCA,den_understory_brown,0.5
+2019,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_cen,SMCA,den_understory_brown,109.25
+2019,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_cen,SMCA,den_urchins,121.5
+2019,anacapa_west_isle_cen,SMCA,den_urchins,31
+2019,anacapa_west_isle_cen,SMCA,den_panint,0.5
+2019,anacapa_west_isle_cen,SMCA,cover_sarhor,4.175
+2019,anacapa_west_isle_cen,SMCA,cover_erectred,16.65
+2019,anacapa_west_isle_e,SMCA,bm_spul,0.854880097
+2019,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_e,SMCA,den_understory_brown,0.5
+2019,anacapa_west_isle_e,SMCA,den_understory_brown,1
+2019,anacapa_west_isle_e,SMCA,den_understory_brown,11.5
+2019,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_e,SMCA,den_urchins,101.5
+2019,anacapa_west_isle_e,SMCA,den_urchins,20.25
+2019,anacapa_west_isle_e,SMCA,den_panint,0.75
+2019,anacapa_west_isle_e,SMCA,cover_sarhor,7.5
+2019,anacapa_west_isle_e,SMCA,cover_erectred,8.35
+2019,anacapa_west_isle_w,SMCA,bm_spul,2.155748506
+2019,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_w,SMCA,den_understory_brown,1
+2019,anacapa_west_isle_w,SMCA,den_understory_brown,24.5
+2019,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2019,anacapa_west_isle_w,SMCA,den_urchins,121.75
+2019,anacapa_west_isle_w,SMCA,den_urchins,18.5
+2019,anacapa_west_isle_w,SMCA,den_panint,0
+2019,anacapa_west_isle_w,SMCA,cover_sarhor,0
+2019,anacapa_west_isle_w,SMCA,cover_erectred,5
+2020,anacapa_east_isle_cen,Old SMR,bm_spul,0.280352974
+2020,anacapa_east_isle_cen,Old SMR,den_understory_brown,128.5
+2020,anacapa_east_isle_cen,Old SMR,den_understory_brown,7.5
+2020,anacapa_east_isle_cen,Old SMR,den_understory_brown,12
+2020,anacapa_east_isle_cen,Old SMR,den_understory_brown,36.75
+2020,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2020,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2020,anacapa_east_isle_cen,Old SMR,den_urchins,4.5
+2020,anacapa_east_isle_cen,Old SMR,den_urchins,7.25
+2020,anacapa_east_isle_cen,Old SMR,den_panint,5.5
+2020,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2020,anacapa_east_isle_cen,Old SMR,cover_erectred,14.15
+2020,anacapa_east_isle_e,Old SMR,bm_spul,1.425952159
+2020,anacapa_east_isle_e,Old SMR,den_understory_brown,193.75
+2020,anacapa_east_isle_e,Old SMR,den_understory_brown,14
+2020,anacapa_east_isle_e,Old SMR,den_understory_brown,24.25
+2020,anacapa_east_isle_e,Old SMR,den_understory_brown,50.5
+2020,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2020,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2020,anacapa_east_isle_e,Old SMR,den_urchins,33.75
+2020,anacapa_east_isle_e,Old SMR,den_urchins,29.75
+2020,anacapa_east_isle_e,Old SMR,den_panint,4.25
+2020,anacapa_east_isle_e,Old SMR,cover_sarhor,0.825
+2020,anacapa_east_isle_e,Old SMR,cover_erectred,12.475
+2020,anacapa_east_isle_w,Old SMR,bm_spul,0.353491502
+2020,anacapa_east_isle_w,Old SMR,den_understory_brown,93
+2020,anacapa_east_isle_w,Old SMR,den_understory_brown,36.5
+2020,anacapa_east_isle_w,Old SMR,den_understory_brown,0.75
+2020,anacapa_east_isle_w,Old SMR,den_understory_brown,5
+2020,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2020,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2020,anacapa_east_isle_w,Old SMR,den_urchins,2.5
+2020,anacapa_east_isle_w,Old SMR,den_urchins,6.25
+2020,anacapa_east_isle_w,Old SMR,den_panint,5.25
+2020,anacapa_east_isle_w,Old SMR,cover_sarhor,2.5
+2020,anacapa_east_isle_w,Old SMR,cover_erectred,15.85
+2020,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.432137601
+2020,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,24.5
+2020,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,2
+2020,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_cen,Reference,den_urchins,407.25
+2020,anacapa_lighthouse_reef_cen,Reference,den_urchins,108
+2020,anacapa_lighthouse_reef_cen,Reference,den_panint,0.75
+2020,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,13.325
+2020,anacapa_lighthouse_reef_cen,Reference,cover_erectred,0.825
+2020,anacapa_lighthouse_reef_e,Reference,bm_spul,0.498191251
+2020,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_e,Reference,den_understory_brown,1.25
+2020,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_e,Reference,den_urchins,108
+2020,anacapa_lighthouse_reef_e,Reference,den_urchins,60.75
+2020,anacapa_lighthouse_reef_e,Reference,den_panint,0.75
+2020,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0
+2020,anacapa_lighthouse_reef_e,Reference,cover_erectred,0.825
+2020,anacapa_lighthouse_reef_w,Reference,bm_spul,0.652399221
+2020,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_w,Reference,den_understory_brown,2.25
+2020,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_w,Reference,den_understory_brown,2.25
+2020,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2020,anacapa_lighthouse_reef_w,Reference,den_urchins,844.25
+2020,anacapa_lighthouse_reef_w,Reference,den_urchins,135.75
+2020,anacapa_lighthouse_reef_w,Reference,den_panint,0
+2020,anacapa_lighthouse_reef_w,Reference,cover_sarhor,10
+2020,anacapa_lighthouse_reef_w,Reference,cover_erectred,0.825
+2020,anacapa_middle_isle_cen,New SMR,bm_spul,0.875308026
+2020,anacapa_middle_isle_cen,New SMR,den_understory_brown,22
+2020,anacapa_middle_isle_cen,New SMR,den_understory_brown,0.75
+2020,anacapa_middle_isle_cen,New SMR,den_understory_brown,1.5
+2020,anacapa_middle_isle_cen,New SMR,den_understory_brown,16.75
+2020,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_cen,New SMR,den_urchins,8
+2020,anacapa_middle_isle_cen,New SMR,den_urchins,14.5
+2020,anacapa_middle_isle_cen,New SMR,den_panint,8.5
+2020,anacapa_middle_isle_cen,New SMR,cover_sarhor,2.475
+2020,anacapa_middle_isle_cen,New SMR,cover_erectred,15
+2020,anacapa_middle_isle_e,New SMR,bm_spul,0.699596621
+2020,anacapa_middle_isle_e,New SMR,den_understory_brown,29
+2020,anacapa_middle_isle_e,New SMR,den_understory_brown,17.75
+2020,anacapa_middle_isle_e,New SMR,den_understory_brown,2
+2020,anacapa_middle_isle_e,New SMR,den_understory_brown,37.5
+2020,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_e,New SMR,den_urchins,21.5
+2020,anacapa_middle_isle_e,New SMR,den_urchins,7.5
+2020,anacapa_middle_isle_e,New SMR,den_panint,3.75
+2020,anacapa_middle_isle_e,New SMR,cover_sarhor,0.825
+2020,anacapa_middle_isle_e,New SMR,cover_erectred,15
+2020,anacapa_middle_isle_w,New SMR,bm_spul,0.09465037
+2020,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_w,New SMR,den_understory_brown,0.5
+2020,anacapa_middle_isle_w,New SMR,den_understory_brown,0.5
+2020,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2020,anacapa_middle_isle_w,New SMR,den_urchins,55.5
+2020,anacapa_middle_isle_w,New SMR,den_urchins,18.25
+2020,anacapa_middle_isle_w,New SMR,den_panint,4.5
+2020,anacapa_middle_isle_w,New SMR,cover_sarhor,14.175
+2020,anacapa_middle_isle_w,New SMR,cover_erectred,4.95
+2020,anacapa_west_isle_cen,SMCA,bm_spul,0.868756349
+2020,anacapa_west_isle_cen,SMCA,den_understory_brown,39.75
+2020,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_cen,SMCA,den_understory_brown,3.25
+2020,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_cen,SMCA,den_urchins,79.25
+2020,anacapa_west_isle_cen,SMCA,den_urchins,20.25
+2020,anacapa_west_isle_cen,SMCA,den_panint,0
+2020,anacapa_west_isle_cen,SMCA,cover_sarhor,0.825
+2020,anacapa_west_isle_cen,SMCA,cover_erectred,10
+2020,anacapa_west_isle_e,SMCA,bm_spul,0.322559238
+2020,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_e,SMCA,den_understory_brown,1
+2020,anacapa_west_isle_e,SMCA,den_understory_brown,0.75
+2020,anacapa_west_isle_e,SMCA,den_understory_brown,3
+2020,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_e,SMCA,den_urchins,142.5
+2020,anacapa_west_isle_e,SMCA,den_urchins,25.25
+2020,anacapa_west_isle_e,SMCA,den_panint,0.25
+2020,anacapa_west_isle_e,SMCA,cover_sarhor,4.15
+2020,anacapa_west_isle_e,SMCA,cover_erectred,4.15
+2020,anacapa_west_isle_w,SMCA,bm_spul,1.900252781
+2020,anacapa_west_isle_w,SMCA,den_understory_brown,2
+2020,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_w,SMCA,den_understory_brown,0.25
+2020,anacapa_west_isle_w,SMCA,den_understory_brown,2.5
+2020,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2020,anacapa_west_isle_w,SMCA,den_urchins,143
+2020,anacapa_west_isle_w,SMCA,den_urchins,22
+2020,anacapa_west_isle_w,SMCA,den_panint,0.25
+2020,anacapa_west_isle_w,SMCA,cover_sarhor,0.825
+2020,anacapa_west_isle_w,SMCA,cover_erectred,15
+2021,anacapa_east_isle_cen,Old SMR,bm_spul,0.651054765
+2021,anacapa_east_isle_cen,Old SMR,den_understory_brown,122.5
+2021,anacapa_east_isle_cen,Old SMR,den_understory_brown,0.25
+2021,anacapa_east_isle_cen,Old SMR,den_understory_brown,1.25
+2021,anacapa_east_isle_cen,Old SMR,den_understory_brown,7.5
+2021,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2021,anacapa_east_isle_cen,Old SMR,den_understory_brown,1
+2021,anacapa_east_isle_cen,Old SMR,den_urchins,9.75
+2021,anacapa_east_isle_cen,Old SMR,den_urchins,10.75
+2021,anacapa_east_isle_cen,Old SMR,den_panint,4.25
+2021,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2021,anacapa_east_isle_cen,Old SMR,cover_erectred,20
+2021,anacapa_east_isle_e,Old SMR,bm_spul,0.342020813
+2021,anacapa_east_isle_e,Old SMR,den_understory_brown,120.75
+2021,anacapa_east_isle_e,Old SMR,den_understory_brown,11
+2021,anacapa_east_isle_e,Old SMR,den_understory_brown,10.75
+2021,anacapa_east_isle_e,Old SMR,den_understory_brown,36.5
+2021,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2021,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2021,anacapa_east_isle_e,Old SMR,den_urchins,16.75
+2021,anacapa_east_isle_e,Old SMR,den_urchins,11
+2021,anacapa_east_isle_e,Old SMR,den_panint,6.25
+2021,anacapa_east_isle_e,Old SMR,cover_sarhor,0.825
+2021,anacapa_east_isle_e,Old SMR,cover_erectred,16.6
+2021,anacapa_east_isle_w,Old SMR,bm_spul,1.211204529
+2021,anacapa_east_isle_w,Old SMR,den_understory_brown,257.75
+2021,anacapa_east_isle_w,Old SMR,den_understory_brown,33.5
+2021,anacapa_east_isle_w,Old SMR,den_understory_brown,1
+2021,anacapa_east_isle_w,Old SMR,den_understory_brown,8.75
+2021,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2021,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2021,anacapa_east_isle_w,Old SMR,den_urchins,8.25
+2021,anacapa_east_isle_w,Old SMR,den_urchins,4.5
+2021,anacapa_east_isle_w,Old SMR,den_panint,6
+2021,anacapa_east_isle_w,Old SMR,cover_sarhor,0.825
+2021,anacapa_east_isle_w,Old SMR,cover_erectred,20.85
+2021,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.737434569
+2021,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,11
+2021,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0.75
+2021,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1
+2021,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_cen,Reference,den_urchins,308.5
+2021,anacapa_lighthouse_reef_cen,Reference,den_urchins,89.5
+2021,anacapa_lighthouse_reef_cen,Reference,den_panint,0.75
+2021,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,8.35
+2021,anacapa_lighthouse_reef_cen,Reference,cover_erectred,1.65
+2021,anacapa_lighthouse_reef_e,Reference,bm_spul,0.553845235
+2021,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_e,Reference,den_understory_brown,15.5
+2021,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_e,Reference,den_understory_brown,1
+2021,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_e,Reference,den_urchins,247.25
+2021,anacapa_lighthouse_reef_e,Reference,den_urchins,85
+2021,anacapa_lighthouse_reef_e,Reference,den_panint,2.75
+2021,anacapa_lighthouse_reef_e,Reference,cover_sarhor,1.675
+2021,anacapa_lighthouse_reef_e,Reference,cover_erectred,0.825
+2021,anacapa_lighthouse_reef_w,Reference,bm_spul,0.193915306
+2021,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_w,Reference,den_understory_brown,10.75
+2021,anacapa_lighthouse_reef_w,Reference,den_understory_brown,2
+2021,anacapa_lighthouse_reef_w,Reference,den_understory_brown,8.5
+2021,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2021,anacapa_lighthouse_reef_w,Reference,den_urchins,1516.75
+2021,anacapa_lighthouse_reef_w,Reference,den_urchins,267
+2021,anacapa_lighthouse_reef_w,Reference,den_panint,0.75
+2021,anacapa_lighthouse_reef_w,Reference,cover_sarhor,0
+2021,anacapa_lighthouse_reef_w,Reference,cover_erectred,3.325
+2021,anacapa_middle_isle_cen,New SMR,bm_spul,0.697776622
+2021,anacapa_middle_isle_cen,New SMR,den_understory_brown,168.75
+2021,anacapa_middle_isle_cen,New SMR,den_understory_brown,1.75
+2021,anacapa_middle_isle_cen,New SMR,den_understory_brown,1
+2021,anacapa_middle_isle_cen,New SMR,den_understory_brown,14.75
+2021,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2021,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2021,anacapa_middle_isle_cen,New SMR,den_urchins,4
+2021,anacapa_middle_isle_cen,New SMR,den_urchins,11
+2021,anacapa_middle_isle_cen,New SMR,den_panint,1.25
+2021,anacapa_middle_isle_cen,New SMR,cover_sarhor,9.15
+2021,anacapa_middle_isle_cen,New SMR,cover_erectred,10.775
+2021,anacapa_middle_isle_e,New SMR,bm_spul,1.008986633
+2021,anacapa_middle_isle_e,New SMR,den_understory_brown,229.5
+2021,anacapa_middle_isle_e,New SMR,den_understory_brown,7.5
+2021,anacapa_middle_isle_e,New SMR,den_understory_brown,1
+2021,anacapa_middle_isle_e,New SMR,den_understory_brown,22.25
+2021,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2021,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2021,anacapa_middle_isle_e,New SMR,den_urchins,27.5
+2021,anacapa_middle_isle_e,New SMR,den_urchins,7.25
+2021,anacapa_middle_isle_e,New SMR,den_panint,3.25
+2021,anacapa_middle_isle_e,New SMR,cover_sarhor,0
+2021,anacapa_middle_isle_e,New SMR,cover_erectred,10
+2021,anacapa_middle_isle_w,New SMR,bm_spul,0.23962256
+2021,anacapa_middle_isle_w,New SMR,den_understory_brown,4.25
+2021,anacapa_middle_isle_w,New SMR,den_understory_brown,0.25
+2021,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2021,anacapa_middle_isle_w,New SMR,den_understory_brown,6.75
+2021,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2021,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2021,anacapa_middle_isle_w,New SMR,den_urchins,35.75
+2021,anacapa_middle_isle_w,New SMR,den_urchins,18.75
+2021,anacapa_middle_isle_w,New SMR,den_panint,3
+2021,anacapa_middle_isle_w,New SMR,cover_sarhor,11.7
+2021,anacapa_middle_isle_w,New SMR,cover_erectred,5
+2021,anacapa_west_isle_cen,SMCA,bm_spul,3.793251133
+2021,anacapa_west_isle_cen,SMCA,den_understory_brown,214
+2021,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_cen,SMCA,den_understory_brown,74.25
+2021,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_cen,SMCA,den_urchins,72.5
+2021,anacapa_west_isle_cen,SMCA,den_urchins,37.25
+2021,anacapa_west_isle_cen,SMCA,den_panint,0.5
+2021,anacapa_west_isle_cen,SMCA,cover_sarhor,0
+2021,anacapa_west_isle_cen,SMCA,cover_erectred,8.325
+2021,anacapa_west_isle_e,SMCA,bm_spul,0.899725483
+2021,anacapa_west_isle_e,SMCA,den_understory_brown,1
+2021,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_e,SMCA,den_understory_brown,35.75
+2021,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_e,SMCA,den_urchins,60.75
+2021,anacapa_west_isle_e,SMCA,den_urchins,21
+2021,anacapa_west_isle_e,SMCA,den_panint,0.25
+2021,anacapa_west_isle_e,SMCA,cover_sarhor,4.175
+2021,anacapa_west_isle_e,SMCA,cover_erectred,6.675
+2021,anacapa_west_isle_w,SMCA,bm_spul,1.185583822
+2021,anacapa_west_isle_w,SMCA,den_understory_brown,22
+2021,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_w,SMCA,den_understory_brown,13.25
+2021,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2021,anacapa_west_isle_w,SMCA,den_urchins,94
+2021,anacapa_west_isle_w,SMCA,den_urchins,21
+2021,anacapa_west_isle_w,SMCA,den_panint,2.25
+2021,anacapa_west_isle_w,SMCA,cover_sarhor,0
+2021,anacapa_west_isle_w,SMCA,cover_erectred,7.475
+2022,anacapa_east_isle_cen,Old SMR,bm_spul,0.787251416
+2022,anacapa_east_isle_cen,Old SMR,den_understory_brown,223.75
+2022,anacapa_east_isle_cen,Old SMR,den_understory_brown,4.75
+2022,anacapa_east_isle_cen,Old SMR,den_understory_brown,1.75
+2022,anacapa_east_isle_cen,Old SMR,den_understory_brown,10.25
+2022,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2022,anacapa_east_isle_cen,Old SMR,den_understory_brown,0.25
+2022,anacapa_east_isle_cen,Old SMR,den_urchins,17
+2022,anacapa_east_isle_cen,Old SMR,den_urchins,25
+2022,anacapa_east_isle_cen,Old SMR,den_panint,14.25
+2022,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2022,anacapa_east_isle_cen,Old SMR,cover_erectred,29.15
+2022,anacapa_east_isle_e,Old SMR,bm_spul,0.449006344
+2022,anacapa_east_isle_e,Old SMR,den_understory_brown,137.75
+2022,anacapa_east_isle_e,Old SMR,den_understory_brown,1
+2022,anacapa_east_isle_e,Old SMR,den_understory_brown,4.5
+2022,anacapa_east_isle_e,Old SMR,den_understory_brown,10.5
+2022,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2022,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2022,anacapa_east_isle_e,Old SMR,den_urchins,24.25
+2022,anacapa_east_isle_e,Old SMR,den_urchins,20.75
+2022,anacapa_east_isle_e,Old SMR,den_panint,4.75
+2022,anacapa_east_isle_e,Old SMR,cover_sarhor,0
+2022,anacapa_east_isle_e,Old SMR,cover_erectred,14.15
+2022,anacapa_east_isle_w,Old SMR,bm_spul,0.215331893
+2022,anacapa_east_isle_w,Old SMR,den_understory_brown,252.25
+2022,anacapa_east_isle_w,Old SMR,den_understory_brown,40.5
+2022,anacapa_east_isle_w,Old SMR,den_understory_brown,4
+2022,anacapa_east_isle_w,Old SMR,den_understory_brown,11.5
+2022,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2022,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2022,anacapa_east_isle_w,Old SMR,den_urchins,6.5
+2022,anacapa_east_isle_w,Old SMR,den_urchins,8
+2022,anacapa_east_isle_w,Old SMR,den_panint,10.25
+2022,anacapa_east_isle_w,Old SMR,cover_sarhor,0
+2022,anacapa_east_isle_w,Old SMR,cover_erectred,9.175
+2022,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.340230347
+2022,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,7.25
+2022,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0.25
+2022,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1
+2022,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_cen,Reference,den_urchins,509
+2022,anacapa_lighthouse_reef_cen,Reference,den_urchins,116.75
+2022,anacapa_lighthouse_reef_cen,Reference,den_panint,0.5
+2022,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,0
+2022,anacapa_lighthouse_reef_cen,Reference,cover_erectred,0.825
+2022,anacapa_lighthouse_reef_e,Reference,bm_spul,0.396606308
+2022,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0.5
+2022,anacapa_lighthouse_reef_e,Reference,den_understory_brown,23.25
+2022,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0.5
+2022,anacapa_lighthouse_reef_e,Reference,den_understory_brown,1.5
+2022,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_e,Reference,den_urchins,142.5
+2022,anacapa_lighthouse_reef_e,Reference,den_urchins,39.75
+2022,anacapa_lighthouse_reef_e,Reference,den_panint,0.25
+2022,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0
+2022,anacapa_lighthouse_reef_e,Reference,cover_erectred,0.825
+2022,anacapa_lighthouse_reef_w,Reference,bm_spul,0.479653513
+2022,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_w,Reference,den_understory_brown,7.25
+2022,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0.5
+2022,anacapa_lighthouse_reef_w,Reference,den_understory_brown,1
+2022,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2022,anacapa_lighthouse_reef_w,Reference,den_urchins,706
+2022,anacapa_lighthouse_reef_w,Reference,den_urchins,167.25
+2022,anacapa_lighthouse_reef_w,Reference,den_panint,1.25
+2022,anacapa_lighthouse_reef_w,Reference,cover_sarhor,0
+2022,anacapa_lighthouse_reef_w,Reference,cover_erectred,0
+2022,anacapa_middle_isle_cen,New SMR,bm_spul,1.119983952
+2022,anacapa_middle_isle_cen,New SMR,den_understory_brown,265.25
+2022,anacapa_middle_isle_cen,New SMR,den_understory_brown,1
+2022,anacapa_middle_isle_cen,New SMR,den_understory_brown,2
+2022,anacapa_middle_isle_cen,New SMR,den_understory_brown,19.25
+2022,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2022,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2022,anacapa_middle_isle_cen,New SMR,den_urchins,5.25
+2022,anacapa_middle_isle_cen,New SMR,den_urchins,10.5
+2022,anacapa_middle_isle_cen,New SMR,den_panint,5.25
+2022,anacapa_middle_isle_cen,New SMR,cover_sarhor,0.825
+2022,anacapa_middle_isle_cen,New SMR,cover_erectred,10
+2022,anacapa_middle_isle_e,New SMR,bm_spul,0.599417532
+2022,anacapa_middle_isle_e,New SMR,den_understory_brown,334.75
+2022,anacapa_middle_isle_e,New SMR,den_understory_brown,4
+2022,anacapa_middle_isle_e,New SMR,den_understory_brown,8
+2022,anacapa_middle_isle_e,New SMR,den_understory_brown,43.75
+2022,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2022,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2022,anacapa_middle_isle_e,New SMR,den_urchins,29.25
+2022,anacapa_middle_isle_e,New SMR,den_urchins,7.25
+2022,anacapa_middle_isle_e,New SMR,den_panint,6
+2022,anacapa_middle_isle_e,New SMR,cover_sarhor,0
+2022,anacapa_middle_isle_e,New SMR,cover_erectred,12.5
+2022,anacapa_middle_isle_w,New SMR,bm_spul,0.554293752
+2022,anacapa_middle_isle_w,New SMR,den_understory_brown,85.25
+2022,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2022,anacapa_middle_isle_w,New SMR,den_understory_brown,0.75
+2022,anacapa_middle_isle_w,New SMR,den_understory_brown,12
+2022,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2022,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2022,anacapa_middle_isle_w,New SMR,den_urchins,43.5
+2022,anacapa_middle_isle_w,New SMR,den_urchins,29.25
+2022,anacapa_middle_isle_w,New SMR,den_panint,3.25
+2022,anacapa_middle_isle_w,New SMR,cover_sarhor,5.825
+2022,anacapa_middle_isle_w,New SMR,cover_erectred,4.975
+2022,anacapa_west_isle_cen,SMCA,bm_spul,2.117105895
+2022,anacapa_west_isle_cen,SMCA,den_understory_brown,151.5
+2022,anacapa_west_isle_cen,SMCA,den_understory_brown,0.25
+2022,anacapa_west_isle_cen,SMCA,den_understory_brown,0.25
+2022,anacapa_west_isle_cen,SMCA,den_understory_brown,21.25
+2022,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2022,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2022,anacapa_west_isle_cen,SMCA,den_urchins,88.75
+2022,anacapa_west_isle_cen,SMCA,den_urchins,49
+2022,anacapa_west_isle_cen,SMCA,den_panint,0.75
+2022,anacapa_west_isle_cen,SMCA,cover_sarhor,0.825
+2022,anacapa_west_isle_cen,SMCA,cover_erectred,15
+2022,anacapa_west_isle_e,SMCA,bm_spul,1.656730603
+2022,anacapa_west_isle_e,SMCA,den_understory_brown,32
+2022,anacapa_west_isle_e,SMCA,den_understory_brown,1
+2022,anacapa_west_isle_e,SMCA,den_understory_brown,0.5
+2022,anacapa_west_isle_e,SMCA,den_understory_brown,4.5
+2022,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2022,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2022,anacapa_west_isle_e,SMCA,den_urchins,143.75
+2022,anacapa_west_isle_e,SMCA,den_urchins,69.25
+2022,anacapa_west_isle_e,SMCA,den_panint,0
+2022,anacapa_west_isle_e,SMCA,cover_sarhor,0
+2022,anacapa_west_isle_e,SMCA,cover_erectred,2.5
+2022,anacapa_west_isle_w,SMCA,bm_spul,2.331445302
+2022,anacapa_west_isle_w,SMCA,den_understory_brown,44
+2022,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2022,anacapa_west_isle_w,SMCA,den_understory_brown,1.333333333
+2022,anacapa_west_isle_w,SMCA,den_understory_brown,6.666666667
+2022,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2022,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2022,anacapa_west_isle_w,SMCA,den_urchins,59
+2022,anacapa_west_isle_w,SMCA,den_urchins,37.66666667
+2022,anacapa_west_isle_w,SMCA,den_panint,1.5
+2022,anacapa_west_isle_w,SMCA,cover_sarhor,0
+2022,anacapa_west_isle_w,SMCA,cover_erectred,2.766666667
+2023,anacapa_east_isle_cen,Old SMR,bm_spul,1.539583605
+2023,anacapa_east_isle_cen,Old SMR,den_understory_brown,370.75
+2023,anacapa_east_isle_cen,Old SMR,den_understory_brown,10.25
+2023,anacapa_east_isle_cen,Old SMR,den_understory_brown,7.75
+2023,anacapa_east_isle_cen,Old SMR,den_understory_brown,33.75
+2023,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2023,anacapa_east_isle_cen,Old SMR,den_understory_brown,0
+2023,anacapa_east_isle_cen,Old SMR,den_urchins,9.75
+2023,anacapa_east_isle_cen,Old SMR,den_urchins,8.75
+2023,anacapa_east_isle_cen,Old SMR,den_panint,4.75
+2023,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2023,anacapa_east_isle_cen,Old SMR,cover_erectred,20.825
+2023,anacapa_east_isle_e,Old SMR,bm_spul,1.987106827
+2023,anacapa_east_isle_e,Old SMR,den_understory_brown,160.25
+2023,anacapa_east_isle_e,Old SMR,den_understory_brown,3.5
+2023,anacapa_east_isle_e,Old SMR,den_understory_brown,10.5
+2023,anacapa_east_isle_e,Old SMR,den_understory_brown,20.25
+2023,anacapa_east_isle_e,Old SMR,den_understory_brown,0.25
+2023,anacapa_east_isle_e,Old SMR,den_understory_brown,2.75
+2023,anacapa_east_isle_e,Old SMR,den_urchins,14.75
+2023,anacapa_east_isle_e,Old SMR,den_urchins,25
+2023,anacapa_east_isle_e,Old SMR,den_panint,8
+2023,anacapa_east_isle_e,Old SMR,cover_sarhor,0
+2023,anacapa_east_isle_e,Old SMR,cover_erectred,15.825
+2023,anacapa_east_isle_w,Old SMR,bm_spul,1.020423487
+2023,anacapa_east_isle_w,Old SMR,den_understory_brown,247.25
+2023,anacapa_east_isle_w,Old SMR,den_understory_brown,9
+2023,anacapa_east_isle_w,Old SMR,den_understory_brown,1.5
+2023,anacapa_east_isle_w,Old SMR,den_understory_brown,6.75
+2023,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2023,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2023,anacapa_east_isle_w,Old SMR,den_urchins,5
+2023,anacapa_east_isle_w,Old SMR,den_urchins,7.75
+2023,anacapa_east_isle_w,Old SMR,den_panint,12.75
+2023,anacapa_east_isle_w,Old SMR,cover_sarhor,0
+2023,anacapa_east_isle_w,Old SMR,cover_erectred,12.475
+2023,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.91376534
+2023,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,10.25
+2023,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1.25
+2023,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1
+2023,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_cen,Reference,den_urchins,304
+2023,anacapa_lighthouse_reef_cen,Reference,den_urchins,98.5
+2023,anacapa_lighthouse_reef_cen,Reference,den_panint,0
+2023,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,0
+2023,anacapa_lighthouse_reef_cen,Reference,cover_erectred,0
+2023,anacapa_lighthouse_reef_e,Reference,bm_spul,0.009209037
+2023,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0.25
+2023,anacapa_lighthouse_reef_e,Reference,den_understory_brown,20.5
+2023,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0.5
+2023,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_e,Reference,den_urchins,287
+2023,anacapa_lighthouse_reef_e,Reference,den_urchins,35
+2023,anacapa_lighthouse_reef_e,Reference,den_panint,0.75
+2023,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0
+2023,anacapa_lighthouse_reef_e,Reference,cover_erectred,0
+2023,anacapa_lighthouse_reef_w,Reference,bm_spul,0.338173858
+2023,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_w,Reference,den_understory_brown,10.25
+2023,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0.75
+2023,anacapa_lighthouse_reef_w,Reference,den_understory_brown,3.75
+2023,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2023,anacapa_lighthouse_reef_w,Reference,den_urchins,606
+2023,anacapa_lighthouse_reef_w,Reference,den_urchins,71.75
+2023,anacapa_lighthouse_reef_w,Reference,den_panint,2
+2023,anacapa_lighthouse_reef_w,Reference,cover_sarhor,0
+2023,anacapa_lighthouse_reef_w,Reference,cover_erectred,1.65
+2023,anacapa_middle_isle_cen,New SMR,bm_spul,0.696944733
+2023,anacapa_middle_isle_cen,New SMR,den_understory_brown,397.75
+2023,anacapa_middle_isle_cen,New SMR,den_understory_brown,2
+2023,anacapa_middle_isle_cen,New SMR,den_understory_brown,1.75
+2023,anacapa_middle_isle_cen,New SMR,den_understory_brown,14.25
+2023,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2023,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2023,anacapa_middle_isle_cen,New SMR,den_urchins,9.5
+2023,anacapa_middle_isle_cen,New SMR,den_urchins,5.5
+2023,anacapa_middle_isle_cen,New SMR,den_panint,3
+2023,anacapa_middle_isle_cen,New SMR,cover_sarhor,0.825
+2023,anacapa_middle_isle_cen,New SMR,cover_erectred,4.15
+2023,anacapa_middle_isle_e,New SMR,bm_spul,1.220439497
+2023,anacapa_middle_isle_e,New SMR,den_understory_brown,321.25
+2023,anacapa_middle_isle_e,New SMR,den_understory_brown,4.5
+2023,anacapa_middle_isle_e,New SMR,den_understory_brown,2.25
+2023,anacapa_middle_isle_e,New SMR,den_understory_brown,23
+2023,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2023,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2023,anacapa_middle_isle_e,New SMR,den_urchins,21.5
+2023,anacapa_middle_isle_e,New SMR,den_urchins,7.5
+2023,anacapa_middle_isle_e,New SMR,den_panint,6.25
+2023,anacapa_middle_isle_e,New SMR,cover_sarhor,0.825
+2023,anacapa_middle_isle_e,New SMR,cover_erectred,8.35
+2023,anacapa_middle_isle_w,New SMR,bm_spul,0.498353496
+2023,anacapa_middle_isle_w,New SMR,den_understory_brown,121.5
+2023,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2023,anacapa_middle_isle_w,New SMR,den_understory_brown,3.25
+2023,anacapa_middle_isle_w,New SMR,den_understory_brown,25.75
+2023,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2023,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2023,anacapa_middle_isle_w,New SMR,den_urchins,107.25
+2023,anacapa_middle_isle_w,New SMR,den_urchins,26
+2023,anacapa_middle_isle_w,New SMR,den_panint,3.25
+2023,anacapa_middle_isle_w,New SMR,cover_sarhor,5.825
+2023,anacapa_middle_isle_w,New SMR,cover_erectred,5
+2023,anacapa_west_isle_cen,SMCA,bm_spul,1.404146113
+2023,anacapa_west_isle_cen,SMCA,den_understory_brown,229
+2023,anacapa_west_isle_cen,SMCA,den_understory_brown,0.25
+2023,anacapa_west_isle_cen,SMCA,den_understory_brown,6.5
+2023,anacapa_west_isle_cen,SMCA,den_understory_brown,29.75
+2023,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_cen,SMCA,den_urchins,82
+2023,anacapa_west_isle_cen,SMCA,den_urchins,49.25
+2023,anacapa_west_isle_cen,SMCA,den_panint,0.25
+2023,anacapa_west_isle_cen,SMCA,cover_sarhor,0
+2023,anacapa_west_isle_cen,SMCA,cover_erectred,12.5
+2023,anacapa_west_isle_e,SMCA,bm_spul,1.125738886
+2023,anacapa_west_isle_e,SMCA,den_understory_brown,60.75
+2023,anacapa_west_isle_e,SMCA,den_understory_brown,1.25
+2023,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_e,SMCA,den_understory_brown,1
+2023,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_e,SMCA,den_urchins,59.75
+2023,anacapa_west_isle_e,SMCA,den_urchins,23.25
+2023,anacapa_west_isle_e,SMCA,den_panint,0.25
+2023,anacapa_west_isle_e,SMCA,cover_sarhor,0.825
+2023,anacapa_west_isle_e,SMCA,cover_erectred,0.825
+2023,anacapa_west_isle_w,SMCA,bm_spul,2.072454441
+2023,anacapa_west_isle_w,SMCA,den_understory_brown,143.3333333
+2023,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_w,SMCA,den_understory_brown,0.333333333
+2023,anacapa_west_isle_w,SMCA,den_understory_brown,5.166666667
+2023,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2023,anacapa_west_isle_w,SMCA,den_urchins,242.1666667
+2023,anacapa_west_isle_w,SMCA,den_urchins,56.33333333
+2023,anacapa_west_isle_w,SMCA,den_panint,1.166666667
+2023,anacapa_west_isle_w,SMCA,cover_sarhor,1.116666667
+2023,anacapa_west_isle_w,SMCA,cover_erectred,1.65
+2024,anacapa_east_isle_cen,Old SMR,bm_spul,0.462489799
+2024,anacapa_east_isle_cen,Old SMR,den_understory_brown,135
+2024,anacapa_east_isle_cen,Old SMR,den_understory_brown,2
+2024,anacapa_east_isle_cen,Old SMR,den_understory_brown,3
+2024,anacapa_east_isle_cen,Old SMR,den_understory_brown,14.5
+2024,anacapa_east_isle_cen,Old SMR,den_understory_brown,0.25
+2024,anacapa_east_isle_cen,Old SMR,den_understory_brown,0.5
+2024,anacapa_east_isle_cen,Old SMR,den_urchins,15.75
+2024,anacapa_east_isle_cen,Old SMR,den_urchins,18.5
+2024,anacapa_east_isle_cen,Old SMR,den_panint,6
+2024,anacapa_east_isle_cen,Old SMR,cover_sarhor,0.825
+2024,anacapa_east_isle_cen,Old SMR,cover_erectred,16.675
+2024,anacapa_east_isle_e,Old SMR,bm_spul,0.819806688
+2024,anacapa_east_isle_e,Old SMR,den_understory_brown,159.5
+2024,anacapa_east_isle_e,Old SMR,den_understory_brown,22
+2024,anacapa_east_isle_e,Old SMR,den_understory_brown,13.75
+2024,anacapa_east_isle_e,Old SMR,den_understory_brown,39.75
+2024,anacapa_east_isle_e,Old SMR,den_understory_brown,0
+2024,anacapa_east_isle_e,Old SMR,den_understory_brown,0.5
+2024,anacapa_east_isle_e,Old SMR,den_urchins,40
+2024,anacapa_east_isle_e,Old SMR,den_urchins,19.75
+2024,anacapa_east_isle_e,Old SMR,den_panint,5.75
+2024,anacapa_east_isle_e,Old SMR,cover_sarhor,0.825
+2024,anacapa_east_isle_e,Old SMR,cover_erectred,34.125
+2024,anacapa_east_isle_w,Old SMR,bm_spul,0.744485946
+2024,anacapa_east_isle_w,Old SMR,den_understory_brown,209.5
+2024,anacapa_east_isle_w,Old SMR,den_understory_brown,27
+2024,anacapa_east_isle_w,Old SMR,den_understory_brown,1.25
+2024,anacapa_east_isle_w,Old SMR,den_understory_brown,6.25
+2024,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2024,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2024,anacapa_east_isle_w,Old SMR,den_urchins,5.75
+2024,anacapa_east_isle_w,Old SMR,den_urchins,12.75
+2024,anacapa_east_isle_w,Old SMR,den_panint,8
+2024,anacapa_east_isle_w,Old SMR,cover_sarhor,0
+2024,anacapa_east_isle_w,Old SMR,cover_erectred,32.525
+2024,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.444775614
+2024,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1
+2024,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,15
+2024,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1.5
+2024,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_cen,Reference,den_urchins,677
+2024,anacapa_lighthouse_reef_cen,Reference,den_urchins,84.5
+2024,anacapa_lighthouse_reef_cen,Reference,den_panint,1.5
+2024,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,1.675
+2024,anacapa_lighthouse_reef_cen,Reference,cover_erectred,2.5
+2024,anacapa_lighthouse_reef_e,Reference,bm_spul,0.047695058
+2024,anacapa_lighthouse_reef_e,Reference,den_understory_brown,1.5
+2024,anacapa_lighthouse_reef_e,Reference,den_understory_brown,10
+2024,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_e,Reference,den_understory_brown,1
+2024,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_e,Reference,den_urchins,191
+2024,anacapa_lighthouse_reef_e,Reference,den_urchins,15.75
+2024,anacapa_lighthouse_reef_e,Reference,den_panint,0.5
+2024,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0
+2024,anacapa_lighthouse_reef_e,Reference,cover_erectred,0.825
+2024,anacapa_lighthouse_reef_w,Reference,bm_spul,0.245797862
+2024,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_w,Reference,den_understory_brown,6.5
+2024,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0.25
+2024,anacapa_lighthouse_reef_w,Reference,den_understory_brown,1.25
+2024,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2024,anacapa_lighthouse_reef_w,Reference,den_urchins,822.5
+2024,anacapa_lighthouse_reef_w,Reference,den_urchins,129.75
+2024,anacapa_lighthouse_reef_w,Reference,den_panint,0
+2024,anacapa_lighthouse_reef_w,Reference,cover_sarhor,4.15
+2024,anacapa_lighthouse_reef_w,Reference,cover_erectred,2.5
+2024,anacapa_middle_isle_cen,New SMR,bm_spul,0.172826355
+2024,anacapa_middle_isle_cen,New SMR,den_understory_brown,353
+2024,anacapa_middle_isle_cen,New SMR,den_understory_brown,1.5
+2024,anacapa_middle_isle_cen,New SMR,den_understory_brown,3.75
+2024,anacapa_middle_isle_cen,New SMR,den_understory_brown,25
+2024,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2024,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2024,anacapa_middle_isle_cen,New SMR,den_urchins,11.5
+2024,anacapa_middle_isle_cen,New SMR,den_urchins,15.75
+2024,anacapa_middle_isle_cen,New SMR,den_panint,3.25
+2024,anacapa_middle_isle_cen,New SMR,cover_sarhor,0.825
+2024,anacapa_middle_isle_cen,New SMR,cover_erectred,5
+2024,anacapa_middle_isle_e,New SMR,bm_spul,0.568674007
+2024,anacapa_middle_isle_e,New SMR,den_understory_brown,334.5
+2024,anacapa_middle_isle_e,New SMR,den_understory_brown,0.25
+2024,anacapa_middle_isle_e,New SMR,den_understory_brown,3
+2024,anacapa_middle_isle_e,New SMR,den_understory_brown,26
+2024,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2024,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2024,anacapa_middle_isle_e,New SMR,den_urchins,24.25
+2024,anacapa_middle_isle_e,New SMR,den_urchins,12.25
+2024,anacapa_middle_isle_e,New SMR,den_panint,13.75
+2024,anacapa_middle_isle_e,New SMR,cover_sarhor,0
+2024,anacapa_middle_isle_e,New SMR,cover_erectred,23.375
+2024,anacapa_middle_isle_w,New SMR,bm_spul,0.309256299
+2024,anacapa_middle_isle_w,New SMR,den_understory_brown,113
+2024,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2024,anacapa_middle_isle_w,New SMR,den_understory_brown,1.75
+2024,anacapa_middle_isle_w,New SMR,den_understory_brown,8
+2024,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2024,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2024,anacapa_middle_isle_w,New SMR,den_urchins,68.25
+2024,anacapa_middle_isle_w,New SMR,den_urchins,19
+2024,anacapa_middle_isle_w,New SMR,den_panint,5.5
+2024,anacapa_middle_isle_w,New SMR,cover_sarhor,2.5
+2024,anacapa_middle_isle_w,New SMR,cover_erectred,9.95
+2024,anacapa_west_isle_cen,SMCA,bm_spul,2.275030359
+2024,anacapa_west_isle_cen,SMCA,den_understory_brown,257.5
+2024,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_cen,SMCA,den_understory_brown,2
+2024,anacapa_west_isle_cen,SMCA,den_understory_brown,6
+2024,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_cen,SMCA,den_urchins,134.5
+2024,anacapa_west_isle_cen,SMCA,den_urchins,61.25
+2024,anacapa_west_isle_cen,SMCA,den_panint,1
+2024,anacapa_west_isle_cen,SMCA,cover_sarhor,0.825
+2024,anacapa_west_isle_cen,SMCA,cover_erectred,3.325
+2024,anacapa_west_isle_e,SMCA,bm_spul,1.261285003
+2024,anacapa_west_isle_e,SMCA,den_understory_brown,66.75
+2024,anacapa_west_isle_e,SMCA,den_understory_brown,0.25
+2024,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_e,SMCA,den_understory_brown,10.5
+2024,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_e,SMCA,den_urchins,79
+2024,anacapa_west_isle_e,SMCA,den_urchins,85.75
+2024,anacapa_west_isle_e,SMCA,den_panint,1
+2024,anacapa_west_isle_e,SMCA,cover_sarhor,2.5
+2024,anacapa_west_isle_e,SMCA,cover_erectred,5
+2024,anacapa_west_isle_w,SMCA,bm_spul,1.32363987
+2024,anacapa_west_isle_w,SMCA,den_understory_brown,149
+2024,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_w,SMCA,den_understory_brown,1.833333333
+2024,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2024,anacapa_west_isle_w,SMCA,den_urchins,47
+2024,anacapa_west_isle_w,SMCA,den_urchins,36
+2024,anacapa_west_isle_w,SMCA,den_panint,0.166666667
+2024,anacapa_west_isle_w,SMCA,cover_sarhor,0
+2024,anacapa_west_isle_w,SMCA,cover_erectred,3.333333333
+2025,anacapa_east_isle_cen,Old SMR,bm_spul,1.776964678
+2025,anacapa_east_isle_cen,Old SMR,den_understory_brown,328
+2025,anacapa_east_isle_cen,Old SMR,den_understory_brown,1.25
+2025,anacapa_east_isle_cen,Old SMR,den_understory_brown,4.75
+2025,anacapa_east_isle_cen,Old SMR,den_understory_brown,41.25
+2025,anacapa_east_isle_cen,Old SMR,den_understory_brown,1.25
+2025,anacapa_east_isle_cen,Old SMR,den_understory_brown,8
+2025,anacapa_east_isle_cen,Old SMR,den_urchins,19.5
+2025,anacapa_east_isle_cen,Old SMR,den_urchins,18.75
+2025,anacapa_east_isle_cen,Old SMR,den_panint,7.25
+2025,anacapa_east_isle_cen,Old SMR,cover_sarhor,0
+2025,anacapa_east_isle_cen,Old SMR,cover_erectred,28.325
+2025,anacapa_east_isle_e,Old SMR,bm_spul,1.271892945
+2025,anacapa_east_isle_e,Old SMR,den_understory_brown,204
+2025,anacapa_east_isle_e,Old SMR,den_understory_brown,2.75
+2025,anacapa_east_isle_e,Old SMR,den_understory_brown,11.25
+2025,anacapa_east_isle_e,Old SMR,den_understory_brown,35.75
+2025,anacapa_east_isle_e,Old SMR,den_understory_brown,0.5
+2025,anacapa_east_isle_e,Old SMR,den_understory_brown,11.5
+2025,anacapa_east_isle_e,Old SMR,den_urchins,11
+2025,anacapa_east_isle_e,Old SMR,den_urchins,9
+2025,anacapa_east_isle_e,Old SMR,den_panint,5.5
+2025,anacapa_east_isle_e,Old SMR,cover_sarhor,0
+2025,anacapa_east_isle_e,Old SMR,cover_erectred,19.125
+2025,anacapa_east_isle_w,Old SMR,bm_spul,1.021025621
+2025,anacapa_east_isle_w,Old SMR,den_understory_brown,458
+2025,anacapa_east_isle_w,Old SMR,den_understory_brown,18.25
+2025,anacapa_east_isle_w,Old SMR,den_understory_brown,3.5
+2025,anacapa_east_isle_w,Old SMR,den_understory_brown,15
+2025,anacapa_east_isle_w,Old SMR,den_understory_brown,0
+2025,anacapa_east_isle_w,Old SMR,den_understory_brown,1
+2025,anacapa_east_isle_w,Old SMR,den_urchins,7.5
+2025,anacapa_east_isle_w,Old SMR,den_urchins,9.75
+2025,anacapa_east_isle_w,Old SMR,den_panint,6.75
+2025,anacapa_east_isle_w,Old SMR,cover_sarhor,0
+2025,anacapa_east_isle_w,Old SMR,cover_erectred,25.025
+2025,anacapa_lighthouse_reef_cen,Reference,bm_spul,0.153903305
+2025,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,3.25
+2025,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,33
+2025,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,1.25
+2025,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,2.5
+2025,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_cen,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_cen,Reference,den_urchins,272.75
+2025,anacapa_lighthouse_reef_cen,Reference,den_urchins,105.5
+2025,anacapa_lighthouse_reef_cen,Reference,den_panint,0.25
+2025,anacapa_lighthouse_reef_cen,Reference,cover_sarhor,0
+2025,anacapa_lighthouse_reef_cen,Reference,cover_erectred,0
+2025,anacapa_lighthouse_reef_e,Reference,bm_spul,0.306929775
+2025,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_e,Reference,den_understory_brown,11.75
+2025,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0.5
+2025,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_e,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_e,Reference,den_urchins,242
+2025,anacapa_lighthouse_reef_e,Reference,den_urchins,21.75
+2025,anacapa_lighthouse_reef_e,Reference,den_panint,0.5
+2025,anacapa_lighthouse_reef_e,Reference,cover_sarhor,0
+2025,anacapa_lighthouse_reef_e,Reference,cover_erectred,1.675
+2025,anacapa_lighthouse_reef_w,Reference,bm_spul,1.555466691
+2025,anacapa_lighthouse_reef_w,Reference,den_understory_brown,2.25
+2025,anacapa_lighthouse_reef_w,Reference,den_understory_brown,35.5
+2025,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_w,Reference,den_understory_brown,0
+2025,anacapa_lighthouse_reef_w,Reference,den_urchins,690.25
+2025,anacapa_lighthouse_reef_w,Reference,den_urchins,33.5
+2025,anacapa_lighthouse_reef_w,Reference,den_panint,0
+2025,anacapa_lighthouse_reef_w,Reference,cover_sarhor,0
+2025,anacapa_lighthouse_reef_w,Reference,cover_erectred,2.5
+2025,anacapa_middle_isle_cen,New SMR,bm_spul,0.482788294
+2025,anacapa_middle_isle_cen,New SMR,den_understory_brown,428.5
+2025,anacapa_middle_isle_cen,New SMR,den_understory_brown,2.25
+2025,anacapa_middle_isle_cen,New SMR,den_understory_brown,3
+2025,anacapa_middle_isle_cen,New SMR,den_understory_brown,20.5
+2025,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2025,anacapa_middle_isle_cen,New SMR,den_understory_brown,0
+2025,anacapa_middle_isle_cen,New SMR,den_urchins,9.25
+2025,anacapa_middle_isle_cen,New SMR,den_urchins,9.5
+2025,anacapa_middle_isle_cen,New SMR,den_panint,1.75
+2025,anacapa_middle_isle_cen,New SMR,cover_sarhor,0
+2025,anacapa_middle_isle_cen,New SMR,cover_erectred,5.8
+2025,anacapa_middle_isle_e,New SMR,bm_spul,1.369074252
+2025,anacapa_middle_isle_e,New SMR,den_understory_brown,373.5
+2025,anacapa_middle_isle_e,New SMR,den_understory_brown,2
+2025,anacapa_middle_isle_e,New SMR,den_understory_brown,9.5
+2025,anacapa_middle_isle_e,New SMR,den_understory_brown,66.25
+2025,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2025,anacapa_middle_isle_e,New SMR,den_understory_brown,0
+2025,anacapa_middle_isle_e,New SMR,den_urchins,17.75
+2025,anacapa_middle_isle_e,New SMR,den_urchins,20.5
+2025,anacapa_middle_isle_e,New SMR,den_panint,7.25
+2025,anacapa_middle_isle_e,New SMR,cover_sarhor,0
+2025,anacapa_middle_isle_e,New SMR,cover_erectred,30.825
+2025,anacapa_middle_isle_w,New SMR,bm_spul,0.425253709
+2025,anacapa_middle_isle_w,New SMR,den_understory_brown,136
+2025,anacapa_middle_isle_w,New SMR,den_understory_brown,1.75
+2025,anacapa_middle_isle_w,New SMR,den_understory_brown,1.75
+2025,anacapa_middle_isle_w,New SMR,den_understory_brown,30.5
+2025,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2025,anacapa_middle_isle_w,New SMR,den_understory_brown,0
+2025,anacapa_middle_isle_w,New SMR,den_urchins,64
+2025,anacapa_middle_isle_w,New SMR,den_urchins,24
+2025,anacapa_middle_isle_w,New SMR,den_panint,1.75
+2025,anacapa_middle_isle_w,New SMR,cover_sarhor,0
+2025,anacapa_middle_isle_w,New SMR,cover_erectred,13.275
+2025,anacapa_west_isle_cen,SMCA,bm_spul,1.603710207
+2025,anacapa_west_isle_cen,SMCA,den_understory_brown,356.75
+2025,anacapa_west_isle_cen,SMCA,den_understory_brown,2.25
+2025,anacapa_west_isle_cen,SMCA,den_understory_brown,8.5
+2025,anacapa_west_isle_cen,SMCA,den_understory_brown,18.75
+2025,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2025,anacapa_west_isle_cen,SMCA,den_understory_brown,0
+2025,anacapa_west_isle_cen,SMCA,den_urchins,59.25
+2025,anacapa_west_isle_cen,SMCA,den_urchins,30
+2025,anacapa_west_isle_cen,SMCA,den_panint,1.25
+2025,anacapa_west_isle_cen,SMCA,cover_sarhor,0
+2025,anacapa_west_isle_cen,SMCA,cover_erectred,10.825
+2025,anacapa_west_isle_e,SMCA,bm_spul,1.323241489
+2025,anacapa_west_isle_e,SMCA,den_understory_brown,199
+2025,anacapa_west_isle_e,SMCA,den_understory_brown,0.25
+2025,anacapa_west_isle_e,SMCA,den_understory_brown,1.25
+2025,anacapa_west_isle_e,SMCA,den_understory_brown,6
+2025,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2025,anacapa_west_isle_e,SMCA,den_understory_brown,0
+2025,anacapa_west_isle_e,SMCA,den_urchins,67.25
+2025,anacapa_west_isle_e,SMCA,den_urchins,52.5
+2025,anacapa_west_isle_e,SMCA,den_panint,0.25
+2025,anacapa_west_isle_e,SMCA,cover_sarhor,0
+2025,anacapa_west_isle_e,SMCA,cover_erectred,5.825
+2025,anacapa_west_isle_w,SMCA,bm_spul,5.160224188
+2025,anacapa_west_isle_w,SMCA,den_understory_brown,128
+2025,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2025,anacapa_west_isle_w,SMCA,den_understory_brown,4.166666667
+2025,anacapa_west_isle_w,SMCA,den_understory_brown,21.5
+2025,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2025,anacapa_west_isle_w,SMCA,den_understory_brown,0
+2025,anacapa_west_isle_w,SMCA,den_urchins,42
+2025,anacapa_west_isle_w,SMCA,den_urchins,29.16666667
+2025,anacapa_west_isle_w,SMCA,den_panint,1.166666667
+2025,anacapa_west_isle_w,SMCA,cover_sarhor,0
+2025,anacapa_west_isle_w,SMCA,cover_erectred,7.216666667

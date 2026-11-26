@@ -1,7 +1,6 @@
 ```{r}
 library(tidyverse)
 library(dplyr)
-library(lubridate)
 
 # Read in swath data
 swath <- read_csv(
@@ -220,8 +219,8 @@ year_zone_mean |>
   )
 ```
 
-NEEDS ERROR BARS AND TO TAKE COMBINED MEAN OF UNDERSTORY BROWN ALGAE
 ```{r}
+# NEEDS ERROR BARS
 # Figure 2: means and standard errors of species biomass, density, percent cover across sites within different protection zones
 zone_mean |>
   ggplot(
