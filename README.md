@@ -1,9 +1,11 @@
-# Title
+# Title...
 EDS 222 Final Project
 
 ## Repository purpose
 
 Contains the script **mpa-sargassum-invasion.qmd** used to .... and **blog-post.qmd** ....
+
+blog post on [Title...](https://emaliap.github.io/mpa-sargassum-invasion/reports/blog-post.html)
 
 ## Repository Structure
 
